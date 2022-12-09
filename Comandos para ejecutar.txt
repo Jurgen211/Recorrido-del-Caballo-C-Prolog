@@ -1,0 +1,11 @@
+
+
+	swipl
+
+	consult('C:/Users/jurge/Desktop/Paradigmas/Proyecto-ced-117830351-118160545/KnightsTour-Back-end-Prolog/PaseoCaballo.pl').
+
+	tell('C:/Users/jurge/Desktop/Paradigmas/Proyecto-ced-117830351-118160545/KnightsTour-Front -end -C#/solucion.txt').
+
+	recorrido(0,0).
+
+	told.

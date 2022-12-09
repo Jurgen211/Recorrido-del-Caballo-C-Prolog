@@ -1,0 +1,164 @@
+C:\Users\joshu\source\repos\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\joshu\source\repos\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\joshu\source\repos\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\joshu\source\repos\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\source\repos\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\source\repos\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.Form1.resources
+C:\Users\joshu\source\repos\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\joshu\source\repos\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\source\repos\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\source\repos\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
+C:\Users\joshu\source\repos\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.Properties.Resources.resources
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.Form1.resources
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.Properties.Resources.resources
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\Desktop\Repositorios\C#\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.Form1.resources
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.Properties.Resources.resources
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Caballo\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Form1.resources
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Properties.Resources.resources
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\Knight's Tour - Front-end - C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Form1.resources
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Properties.Resources.resources
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\Desktop\ProyectoC#-Prolog\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Form1.resources
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Properties.Resources.resources
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\joshu\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.AssemblyReference.cache
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Form1.resources
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Properties.Resources.resources
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.GenerateResource.cache
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Form1.resources
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Properties.Resources.resources
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\pc\Desktop\Proyecto-ced-117830351-118160545\KnightsTour-Front-end-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Form1.resources
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Properties.Resources.resources
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\pc\Desktop\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.exe
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.deps.json
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.json
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.runtimeconfig.dev.json
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\bin\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.AssemblyReference.cache
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Form1.resources
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.Properties.Resources.resources
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.GenerateResource.cache
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfoInputs.cache
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.AssemblyInfo.cs
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.csproj.CoreCompileInputs.cache
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.dll
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.pdb
+C:\Users\jurge\Desktop\Paradigmas\Proyecto-ced-118440117-207770297\Caballo-C#\Caballo\obj\Debug\netcoreapp3.1\Caballo.genruntimeconfig.cache
